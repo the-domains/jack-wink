@@ -1,0 +1,28 @@
+name: jack wink
+favicon: null
+layout_spectrum: 0.2325194349978119
+typography_spectrum: 0.24004461569711566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9132432583719492
+  lightness: 0.7566434796899557
+  saturation: 0.4266863844823092
+  rhythmicContrast: 0.275945887202397
+purpose: []
