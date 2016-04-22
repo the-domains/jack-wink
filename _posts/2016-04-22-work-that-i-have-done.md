@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Work that I have done.
-datePublished: '2016-04-22T05:44:49.593Z'
-dateModified: '2016-04-22T05:41:43.714Z'
+description: 'Track of the day '
+datePublished: '2016-04-22T05:48:46.603Z'
+dateModified: '2016-04-22T05:48:46.122Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-work-that-i-have-done.md
@@ -22,6 +22,7 @@ url: work-that-i-have-done/index.html
 _type: Article
 
 ---
-Work that I have done.
+Track of the day ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a5f2b2b-6279-4398-accf-f0f2867db9a0.jpg)
 
-http://www.imdb.com/name/nm4018299/
+  
+True dat i thought you knew that
